@@ -6,4 +6,10 @@
 
 <h1> COMANDS </h1>
 
+<h3>
+  sudo chmod +x burpsuite_community_linux_v1_7_36.sh                
 
+  
+  sudo ./burpsuite_community_linux_v1_7_36.sh          
+
+</h3>
